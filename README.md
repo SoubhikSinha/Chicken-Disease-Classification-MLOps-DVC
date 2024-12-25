@@ -1,1 +1,1 @@
-# Chicken-Disease-Detection-MLOps-DVC
+# Chicken-Disease-Classification-MLOps-DVC
