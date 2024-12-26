@@ -1,1 +1,124 @@
 [2024-12-24 23:58:49,112: INFO: main: Welcome to my Custom Log]
+[2024-12-25 19:13:40,372: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:13:40,375: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:13:40,376: INFO: common: created directory at : artifacts]
+[2024-12-25 19:13:40,377: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:13:43,274: INFO: 1888842636: artifacts/data_ingestion/data.zip downloaded! with following info : 
+Server: GitHub.com
+Date: Thu, 26 Dec 2024 00:13:42 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"144b956098070f4c39e199c544b4de35"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ github.com/webpack/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ github.com/webpack/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=pJNHUDKc1VHuROdKhYFzkml5HnzlloD5yAoGUxhyojij8IPEGImhbc9Mrlaz3vF%2BuabE5QLQggsVyqWFXz2sQejDtHGSP%2B4i2OdmJHb1rA2e4Q%2Ba4VNtS4NQQlpIO%2FxmtSwRBLcFdITFYNQRh%2FmeaudlgWhM%2FD6oNU6uBnKloPL5qbtGc4HONERF3afUkeswkgYJaZuTY51kjaG%2BxPZbh9GLUvWrR%2BI943SL1TmbrxZF9yQSndsuqcKj%2Fui3mlzaLi40Y7naTA50SnUnudpa%2BQ%3D%3D--OVEqnWZpKA7c9Ts6--vLX15cSYRsoiOchuAKuZ%2BA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.956760737.1735172022; Path=/; Domain=github.com; Expires=Fri, 26 Dec 2025 00:13:42 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Fri, 26 Dec 2025 00:13:42 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: C85D:2B466F:7FE8CB2:D4714CD:676C9FB6
+connection: close
+
+]
+[2024-12-25 19:16:05,720: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:16:05,722: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:16:05,724: INFO: common: created directory at : artifacts]
+[2024-12-25 19:16:05,725: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:16:05,727: INFO: 1888842636: File already exists of size : ~ 163 KB]
+[2024-12-25 19:18:25,355: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:18:25,357: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:18:25,359: INFO: common: created directory at : artifacts]
+[2024-12-25 19:18:25,360: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:18:25,361: INFO: 1170291011: File already exists of size: ~ 163 KB]
+[2024-12-25 19:22:05,541: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:22:05,543: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:22:05,544: INFO: common: created directory at : artifacts]
+[2024-12-25 19:22:05,545: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:22:05,547: INFO: 2096091580: File already exists of size: ~ 163 KB]
+[2024-12-25 19:22:05,549: ERROR: 2824572956: An error occurred: File is not a zip file]
+[2024-12-25 19:25:44,133: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:25:44,136: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:25:44,737: INFO: common: created directory at : artifacts]
+[2024-12-25 19:25:44,738: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:25:44,739: INFO: 2096091580: File already exists of size: ~ 163 KB]
+[2024-12-25 19:25:44,740: ERROR: 2824572956: An error occurred: File is not a zip file]
+[2024-12-25 19:26:12,790: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:26:12,792: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:26:12,794: INFO: common: created directory at : artifacts]
+[2024-12-25 19:26:12,796: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:26:14,413: INFO: 2096091580: artifacts/data_ingestion/data.zip downloaded! With following info: 
+Connection: close
+Content-Length: 12434258
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "49270f7cc136a0a55d089348ad8e86855f5fceb53359fffa350d9c1166162a7b"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EA4A:23F678:978CF0:A7BD9F:676CA2A5
+Accept-Ranges: bytes
+Date: Thu, 26 Dec 2024 00:26:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr-kewr1740046-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1735172774.772172,VS0,VE134
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b0c37a8732993519dd3daf6ed741848073ed2e7d
+Expires: Thu, 26 Dec 2024 00:31:13 GMT
+Source-Age: 0
+
+]
+[2024-12-25 19:49:46,345: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-25 19:49:46,347: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:49:46,348: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:49:46,348: INFO: common: created directory at : artifacts]
+[2024-12-25 19:49:46,348: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:49:46,349: INFO: data_ingestion: File already exists of size: ~ 12143 KB]
+[2024-12-25 19:49:46,673: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-12-25 19:50:16,710: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-25 19:50:16,713: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 19:50:16,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-25 19:50:16,714: INFO: common: created directory at : artifacts]
+[2024-12-25 19:50:16,714: INFO: common: created directory at : artifacts/data_ingestion]
+[2024-12-25 19:50:18,178: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! With following info: 
+Connection: close
+Content-Length: 12434258
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "49270f7cc136a0a55d089348ad8e86855f5fceb53359fffa350d9c1166162a7b"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EA4A:23F678:978CF0:A7BD9F:676CA2A5
+Accept-Ranges: bytes
+Date: Thu, 26 Dec 2024 00:50:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr-kewr1740077-EWR
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1735174218.591273,VS0,VE55
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b5b37848f0528d99a139389a2bf4d8da5c95b98c
+Expires: Thu, 26 Dec 2024 00:55:17 GMT
+Source-Age: 0
+
+]
+[2024-12-25 19:50:18,725: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
