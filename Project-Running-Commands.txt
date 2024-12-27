@@ -14,3 +14,8 @@ On GitBash 🔽
 DVC will track your pipeline - if everything was run already, then DVC will skip all the components (this is not the case in executing main.py - when you execute >> python main.py -> it will again run the whole pipeline)
 
 - Want to see how the pipeline looks (visualization) (when running) >> dvc dag
+
+Launching the FLask Application >> python app.py --> IP Address (localhost:8080)
+
+Training the model : localhost:8080/train (delete the "artificats" folder first, then do that)
+
