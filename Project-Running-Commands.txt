@@ -6,3 +6,11 @@ Project Running Commands
 4. Creating Project Folder / File Structure : python template.py
 5. To see Tensorboard : tensorboard --logdir artifacts/prepare_callbacks/tensorboard_log_dir/
 6. Run the full program : python main.py
+
+On GitBash 🔽
+>> dvc init
+- Execute the Pipeline >> dvc repro
+
+DVC will track your pipeline - if everything was run already, then DVC will skip all the components (this is not the case in executing main.py - when you execute >> python main.py -> it will again run the whole pipeline)
+
+- Want to see how the pipeline looks (visualization) (when running) >> dvc dag
