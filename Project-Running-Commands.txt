@@ -4,4 +4,5 @@ Project Running Commands
 2. conda env activate : conda activate venv/
 3. Install libraries : pip install -r requirements.txt
 4. Creating Project Folder / File Structure : python template.py
-5. 
+5. To see Tensorboard : tensorboard --logdir artifacts/prepare_callbacks/tensorboard_log_dir/
+6. Run the full program : python main.py
