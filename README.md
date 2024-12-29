@@ -115,7 +115,18 @@ Displays the pipeline’s dependency graph :<br>
 	dvc dag
 	```
 
-### **8. Launch the Flask Application**
+### **8. Viewing TensorBoard**
+To view TensorBoard, run :<br>
+```bash
+tensorboard --logdir artifacts/prepare_callbacks/tensorboard_log_dir/
+```
+Then navigate to the below in your browser :<br>
+
+```bash
+http://localhost:6006
+```
+
+### **9. Launch the Flask Application**
 Start the Flask web application :<br>
 ```bash
 python app.py
