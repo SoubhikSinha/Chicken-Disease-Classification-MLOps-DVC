@@ -9,7 +9,6 @@ The problem statement for this project is the classification of chicken diseases
 The VGG16 Convolutional Neural Network (CNN) architecture, a pre-trained model from the Keras library, was utilized through transfer learning. A Flask application was developed to deploy the model via a simple web interface. This application was deployed both locally and on AWS, demonstrating its versatility and scalability.
 
 <br>
-<br>
 
 What I learned through this project ?
 ---
@@ -17,24 +16,20 @@ What I learned through this project ?
 Modular coding practices in Python involve structuring code into distinct, reusable, and manageable units (modules) to enhance readability, maintainability, and scalability. A program is divided into smaller, self-contained units, each focused on a specific functionality, allowing for independent development, testing, and maintenance. These modules can be grouped into packages, which are directories containing multiple related modules. Key principles include organizing code into functions and classes, adhering to the single-responsibility principle (each module focusing on one purpose), using meaningful names, and leveraging encapsulation to hide implementation details while exposing clear interfaces. Configuration files are used instead of hardcoding values, and tools like Python’s standard library and external libraries can simplify modularity. A well-structured directory, such as separating preprocessing, model logic, and Flask application routes into distinct packages, exemplifies this approach. This method improves code reusability, scalability, and collaboration while ensuring that changes in one module have minimal impact on others.
 
 <br>
-<br>
 
 - <b>CI/CD (Continuous Integration and Continuous Delivery/Deployment)</b> 🔽<br>
 **[CI/CD](https://about.gitlab.com/topics/ci-cd/)** is a set of practices and tools that automate and streamline the software development lifecycle. Continuous Integration focuses on regularly merging code changes into a shared repository, followed by automated testing to detect and address issues early. Continuous Delivery ensures that the codebase is always in a deployable state by automating the testing, building, and preparation of applications for deployment. Continuous Deployment takes this further by automatically deploying every code change to production once it passes all tests. Together, CI/CD fosters collaboration, reduces development cycles, improves code quality, and minimizes the risk of errors in production, enabling faster and more reliable software delivery.
 
-<br>
 <br>
 
 - <b>GitHub Actions</b> 🔽<br>
 **[GitHub Actions](https://github.com/features/actions)** is an integrated CI/CD platform within GitHub that automates tasks across the software development lifecycle. It enables developers to define workflows using YAML files, specifying triggers such as code pushes, pull requests, or scheduled events. These workflows can execute tasks like building, testing, and deploying code. GitHub Actions supports reusable components called actions, which can be shared and customized, along with native integration with GitHub repositories and third-party services. By providing a highly customizable, event-driven system, GitHub Actions simplifies automation, enhances collaboration, and accelerates the delivery of high-quality software directly from the repository.
 
 <br>
-<br>
 
 - <b>DVC (Data Version Control)</b> 🌟 🔽<br>
 **[DVC](https://dvc.org/)** is a powerful tool designed to bring the benefits of version control, like Git, into the world of data science and machine learning. It enables seamless tracking of datasets, models, and experiments, making collaboration on large-scale data projects as intuitive as managing code. Think of it as a bridge between reproducibility and agility : DVC allows you to version control massive datasets without cluttering your repository, linking data storage in remote locations like S3 or Google Drive. It also tracks the entire pipeline, ensuring every transformation or experiment is reproducible. With DVC, your projects gain clarity, teamwork becomes smoother, and scaling machine learning pipelines feels effortless—a game-changer for anyone working in data-driven environments.
 
-<br>
 <br>
 
 How to run this project ?
@@ -80,7 +75,6 @@ Run the project directly without using DVC :<br>
 ```bash
 python main.py
 ```
-<br>
 
 **NOTE** : This will:
 -   Automatically create the `artifacts/` folder.
@@ -124,8 +118,6 @@ Start the Flask web application :<br>
 ```bash
 python app.py
 ```
-
-<br>
 
 Open your browser and navigate to `http://localhost:8080` to interact with the application.<br>
 
