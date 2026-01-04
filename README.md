@@ -1,12 +1,5 @@
 # Chicken Disease Classification - MLOps - DVC
 
-Acknowledgements
-----
-I would like to extend my sincere thanks to  [Krish Naik](https://github.com/krishnaik06)  and  [Bappy Ahmed](https://github.com/entbappy)  for their invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without their educational resources.
-
-<br>
-<br>
-
 About the Project
 ---
 This project focuses on exploring the principles of Python modular coding, MLOps (Machine Learning Operations, which applies DevOps practices to ML workflows), CI/CD (Continuous Integration, Continuous Delivery, and Continuous Deployment) pipelines using GitHub Actions, DVC (Data Version Control), and end-to-end project deployment on cloud platforms such as AWS (Amazon Web Services).<br>
@@ -139,3 +132,8 @@ Open your browser and navigate to `http://localhost:8080` to interact with the a
 To train the model from the browser, visit : `http://localhost:8080/train`.<br>
 
 **NOTE** : Before running this, ensure the `artifacts/` folder is deleted for a fresh training session.
+<br>
+<br>
+
+## References
+[Krish Naik](https://github.com/krishnaik06)
