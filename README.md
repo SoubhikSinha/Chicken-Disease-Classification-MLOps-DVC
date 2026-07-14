@@ -124,8 +124,3 @@ Open your browser and navigate to `http://localhost:8080` to interact with the a
 To train the model from the browser, visit : `http://localhost:8080/train`.<br>
 
 **NOTE** : Before running this, ensure the `artifacts/` folder is deleted for a fresh training session.
-<br>
-<br>
-
-## References
-[Krish Naik](https://github.com/krishnaik06)
